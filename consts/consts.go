@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "gpunet"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "gopu"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "123456"
 )
 
 var ID ids.ID
